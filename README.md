@@ -1,4 +1,4 @@
-solr.knn.classifier
+knn.classifier
 ===================
 
 An example K-Nearest-Neighbors classifier built on top of Solr &amp; Lucene. Works with Weka ARFF formats.
