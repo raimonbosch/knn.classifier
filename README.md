@@ -24,8 +24,3 @@ Run your classification:
     java -Xmx512m -Dfile.encoding=UTF-8 -jar target/knn-classifier-1.0-SNAPSHOT-jar-with-dependencies.jar \
     --action=knn --input=/tmp/IMDB-F.arff --output=/tmp/solr --solrconf=./src/main/resources/solr/
 
-
-
-Dependencies: maven2
-TODO: Support for more input formats
-
